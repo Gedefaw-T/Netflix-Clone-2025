@@ -13,7 +13,7 @@
 
 }
 .row_posters::-webkit-scrollbar{
-    display: none;
+    display:none;
 }
 
 .row_poster:hover{
