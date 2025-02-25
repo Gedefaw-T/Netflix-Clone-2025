@@ -1,6 +1,4 @@
-/* *{
-    list-style: none;
-} */
+
 .footer_outer_container{
 background-color: #111;
 color: grey;
@@ -25,6 +23,7 @@ justify-content: center;
 .footer_data{
     display:flex;
     justify-content: space-between;
+    
 }
 .footer_data ul{
     list-style: none;
