@@ -31,8 +31,8 @@ function RowList() {
      fetchUrl={requests.fetchRomanceMovies}
      />
 
-<Row title="Documentaries"
-     fetchUrl={requests.fetchDocumentaries}
+<Row title="History"
+     fetchUrl={requests.fetchHistory}
      />
 
 <Row title="TV"
